@@ -47,7 +47,7 @@ A solution to the **Frontend Mentor - Social Links Profile** challenge built usi
 ## 🔗 Links
 
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/profile/hepinsuthar)
-- [Live Demo](#) *(Add your deployed project URL here)*
+- [Live Demo](https://hepinsuthar.github.io/social-links-profile/) 
 
 ---
 
